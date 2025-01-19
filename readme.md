@@ -132,7 +132,7 @@ npm run start
 
 
 ## Additional Documentation
-A detailed Postman collection documenting the API endpoints is available at the following link: [Postman Documentation](https://documenter.getpostman.com/view/22674808/2sAYQWKDdY).
+A detailed Postman collection documenting the API endpoints is available at the following link: [Postman Documentation](https://documenter.getpostman.com/view/22674808/2sAYQanret).
 
 
 ## Contributing
